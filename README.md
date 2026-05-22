@@ -21,7 +21,6 @@ Przeprowadza losowy spacer badając przestrzeń kluczy (zmiany metodą transpozy
 Aby używać programu, upewnij się, że masz zainstalowane biblioteki numpy, pandas oraz matplotlib.
 
 ## Dane testowe
-Projekt zawiera przykładowy zestaw danych testowych w folderze `/data`.
 Tekst "Pana Tadeusza" został pobrany z serwisu [Wolne Lektury](https://wolnelektury.pl/media/book/txt/pan-tadeusz.txt).
 Utwór znajduje się w domenie publicznej.
 
@@ -56,7 +55,6 @@ Conducts a random walk exploring the key space (changes using the transposition 
 To use the program, ensure you have the numpy, pandas, and matplotlib libraries installed.
 
 ## Test Data
-This project includes sample test data in the `/data` folder. 
 The text of "Pan Tadeusz" was retrieved from [Wolne Lektury](https://wolnelektury.pl/media/book/txt/pan-tadeusz.txt). 
 The work is in the public domain.
 
